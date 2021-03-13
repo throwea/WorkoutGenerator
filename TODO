@@ -1,0 +1,24 @@
+TODO:
+
+-Figure out how I will be able to transport part of an exercise to another workout. For example, sending 2 Bicep workouts to the Back workout
+-Document Code
+-Make a hashmap which maps names (strings) -> google sheet link (string)
+-Create empty space for adding in the weights that were completed
+-Add whole row which indicates the week
+-Add functionality which asks the user which person he is designing a workout for
+-Create Classes for the different types of workout i.e. two,three,four, five day workouts
+- Put keys in seperate text file and DO NOT upload to Github
+
+DONE:
+-Seperate the compound movements from the accesories >> DONE!
+-Seperate the exercises by the different muscle groups they hit >> DONE!
+-Finish text file for Arms, Back, Chest, and Legs >> PRETTY MUCH DONE!
+-Write methods for week layout which print out the entire week in a format similar to Excel spreadsheet >> DONE !!
+-Improve parseline so it parses the exercises as a list of lists to reflect the subdivision of exercises for each sub
+muscle >> DONE!!
+-Change the Exercises field to be a hashMap from string -> arrayList<string> to reflect priorities for compound movements
+and accesories >> DONE!!
+-Sort the workouts so that compounds are first >> DONE!!
+-look up how to write java program that writes to excel spreadsheet >> DONE!!
+-Do week layout which simply prints all the workouts in a grid format >> DONE!!
+-Fix repeats in the workouts >> !!DONE
